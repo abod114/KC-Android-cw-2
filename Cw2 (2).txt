@@ -1,0 +1,13 @@
+public class Main
+{
+	public static void main(String[] args) {
+		int man = 170; 
+       
+       
+       if (man>160){
+           System.out.println("you can enter");
+       }
+    
+    
+	
+	}
